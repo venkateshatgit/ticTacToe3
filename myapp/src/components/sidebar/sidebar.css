@@ -1,0 +1,7 @@
+
+.sidebar{
+    display: flex;
+    width: 20%;
+    background-color: rgb(44, 71, 203);
+    align-items: center;
+}
